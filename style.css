@@ -257,7 +257,8 @@ td, th{
 
 @media screen and (max-width: 480px) {
     .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video, .formulario, .produtos, .produtos li, .contato{
-        width: auto;
+		width: auto;
+		text-align: center;
     }
 
     h1 {
@@ -268,8 +269,9 @@ td, th{
         position: static;
     }
 
-    .lista-beneficios, .imagem-beneficios {
-        width: 100%;
+    .lista-beneficios, .imagem-beneficios, .produtos {
+		width: 100%;
+		text-align: center;
     }
 }
 
