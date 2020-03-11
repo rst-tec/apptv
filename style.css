@@ -114,13 +114,14 @@ nav a:hover{
 }
 
 footer{
-	text-align: center;    
+	text-align: center;  	
 }
 
 .desenvolvido{
     color: black;
     font-size: 15px;
-    margin: 20px 0 0;
+	margin: 20px 0 0;
+	
 }
 
 .contador{
@@ -160,7 +161,7 @@ footer{
 }
 
 .produtos li:active{
-    border-color: #088c19;
+    border-color: #c78c19;
 }
 
 .produtos h2 {
