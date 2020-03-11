@@ -191,6 +191,30 @@ footer{
 	margin-top: 10px;
 }
 
+.enviar p{
+	margin-left: 23em;
+}
+
+.enviar{
+	margin-left: 23em;
+	width: 40%;
+	padding: 15px 0;
+	background: orange;
+	color: white;
+	font-weight: bold;
+	font-size: 18px;
+	border: none;
+	border-radius: 5px;
+	transition: 1s all;
+	cursor: pointer;
+	
+}
+
+.enviar:hover{
+	background:darkorange;
+	transform: scale(1.2);
+}
+
 /*  ADAPTAÇÃO PARA CELULAR */
 
 @media screen and (max-width: 480px) {
